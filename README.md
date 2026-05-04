@@ -1,48 +1,127 @@
-# 안녕하세요, 모바일 개발자 박준권입니다 👋
+<div align="center">
 
-4년차 React Native 개발자입니다.  
-관광 플랫폼, 소셜 커머스 등 **실제 서비스 앱을 다수 출시**했고,  
-Native 모듈 개발부터 결제 연동, 실시간 채팅까지 폭넓게 경험했습니다.
+# 안녕하세요, 모바일 앱 개발자 박준권입니다 👋
+
+**4년차 React Native 개발자** · 공공 앱부터 소셜 커머스까지 다수 출시
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gusals3078@gmail.com)
+[![Notion](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Mobile-App-Developer-12899fee16fe8044b818c0c842f910aa)
+[![Tistory](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://twinspika.tistory.com/)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎯 실제 서비스 앱을 직접 설계·개발·출시한 **4년차 React Native 개발자**
+- 📱 **HeloDonut**에서 14개월간 1인 프론트엔드 전체 책임
+- 🏗️ **대구트립·고고양양**에서 선임 개발자로 초기 구조 주도
+- 🌏 공공 관광 앱부터 소셜 커머스까지 다양한 도메인 경험
+- 📝 새로운 기술과 실무 경험을 [블로그](https://twinspika.tistory.com/)에 꾸준히 정리
+
+---
 
 ## 🛠 Tech Stack
 
-**Mobile**  
+### Mobile (Primary)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-**Web**  
+### Web (Sub)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**State & Data**  
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white)
+### State & Data
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 ![MMKV](https://img.shields.io/badge/MMKV-4A90E2?style=flat-square&logoColor=white)
 
-**Real-time & API**  
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
+### Real-time & Backend Integration
+![STOMP](https://img.shields.io/badge/STOMP%2FWebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logoColor=white)
 
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+---
+
 ## 📱 주요 프로젝트
 
-| 프로젝트 | 설명 | 주요 작업 |
-|---------|------|----------|
-| [**HeloDonut**](https://www.notion.so/HeloDonut-34599fee16fe814f975ecddb9039b9ff?source=copy_link) | 소셜 커머스 앱 (1인 프론트엔드) | WebSocket 채팅, PG 결제 연동, 오프라인 캐싱 |
-| [**고고양양**](https://www.notion.so/GogoYangyang-2d899fee16fe8098a964e849f3c85edb?source=copy_link) | 양양 관광 플랫폼 | 5만+ 다운로드, QR 스탬프 투어, 실시간 웨이팅 |
-| [**대구트립**](https://www.notion.so/DaeguTrip-2d899fee16fe800d9916d051b450d6cd?source=copy_link) | 대구 관광 플랫폼 | 4개 국어 지원, 지도 길안내, 오디오 가이드 |
+### 🍩 [HeloDonut](https://www.notion.so/HeloDonut-34599fee16fe814f975ecddb9039b9ff?source=copy_link) — 소셜 커머스 앱 (1인 프론트엔드)
 
-## 💡 주요 경험
+> 실시간 채팅·동영상 스트리밍·PG 결제를 통합한 엔터프라이즈급 소셜 커머스 앱
 
-- **실시간 채팅**: STOMP/WebSocket 기반 메시징, 읽음 확인, 오프라인 동기화
-- **결제 시스템**: NICEPAY PG 연동 (카드/간편결제)
-- **지도 서비스**: Google Maps, TMAP, Naver/Kakao 지도 통합
-- **Native 모듈**: iOS/Android 브릿지 개발 경험
-- **앱 배포**: Google Play, App Store 심사 대응 및 출시
+- 14개월간 **프론트엔드 전체 1인 설계·개발·출시**
+- **STOMP/WebSocket** 기반 오프라인 우선 채팅 시스템 설계
+- **NICE Pay PG** 결제 + 외부 앱 딥링크 처리
+- **i18next 6개 언어** 국제화
+- **React Native New Architecture** (Fabric, TurboModules) 도입
+- 후반부에 **Thirteen CMS** (React 19 + Vite + shadcn/ui) 병행 개발
 
-## 📫 Contact
+`React Native` `TypeScript` `Zustand` `TanStack Query` `STOMP` `MMKV` `Firebase`
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gusals3078@gmail.com)
-[![Notion](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Mobile-App-Developer-12899fee16fe8044b818c0c842f910aa)
-[![Tistory](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://twinspika.tistory.com/)
+### 🏖️ [고고양양](https://www.notion.so/GogoYangyang-2d899fee16fe8098a964e849f3c85edb?source=copy_link) — 양양 관광 플랫폼
+
+> 양양 스마트시티 통합 관광 플랫폼 · **누적 5만+ 다운로드**
+
+- 프론트엔드 4명 팀의 **선임 개발자**
+- 메인 화면 인터랙티브 UI · 광역 지도 · 도보·차량 길안내 전담
+- **TMAP API** 기반 턴바이턴 네비게이션 사이드바 직접 구현
+- 1,000+ POI · 광역 지도 + POI 리스트 + 바텀시트 동기화 최적화
+
+`React Native` `TypeScript` `Recoil` `Google Maps` `TMAP`
+
+### 🏯 [대구트립](https://www.notion.so/DaeguTrip-2d899fee16fe800d9916d051b450d6cd?source=copy_link) — 대구 관광 플랫폼
+
+> 대구 수성구 통합 관광 체험 플랫폼 · **4개 국어 (한·영·중·일)**
+
+- 팀의 **첫 React Native 프로젝트** · 선임으로 초기 구조 주도
+- Recoil 도입 · 공통 컴포넌트 라이브러리 · 폴더 구조 설계
+- 소셜 로그인 4종 (Kakao/Naver/Google/Apple) WebView 통합
+- **Firebase Dynamic Link** 기반 Web→앱 음성 가이드 자동 재생
+
+`React Native` `TypeScript` `Recoil` `Firebase Dynamic Link` `i18next`
+
+---
+
+## 💡 핵심 경험
+
+| 영역 | 경험 |
+|------|------|
+| **실시간 통신** | STOMP/WebSocket · SockJS 폴백 · 오프라인 우선 동기화 · 재연결 전략 |
+| **결제 시스템** | NICE Pay PG · 카드/간편결제/에스크로 · 외부 앱 딥링크 (iOS/Android) |
+| **미디어 처리** | 동영상 업로드·압축·재생·썸네일 · LegendList 기반 세로 스와이프 피드 |
+| **지도 서비스** | Google Maps · TMAP · Naver/Kakao Maps · 광역 POI 리스트 최적화 |
+| **다국어 지원** | i18next 기반 동적 언어 전환 · 6개 언어 (HeloDonut) · 4개 언어 (대구트립) |
+| **Native 모듈** | iOS/Android 브릿지 · patch-package로 외부 라이브러리 이슈 해결 |
+| **앱 출시** | Google Play · App Store 심사 대응 · 출시 이력 5건 |
+
+---
+
+## 📂 공개 저장소
+
+> 실무 프로젝트(HeloDonut, 고고양양, 대구트립 등)는 회사 자산이라 비공개입니다.
+> 개인 공개 프로젝트는 추후 추가 예정입니다.
+
+---
+
+<div align="center">
+
+### 📫 함께 일할 기회를 찾고 있습니다
+
+[![Gmail](https://img.shields.io/badge/이메일로_연락하기-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gusals3078@gmail.com)
+
+[**상세 포트폴리오 →**](https://www.notion.so/Mobile-App-Developer-12899fee16fe8044b818c0c842f910aa) | [**기술 블로그 →**](https://twinspika.tistory.com/)
+
+</div>
