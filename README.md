@@ -18,7 +18,6 @@
 - 📱 **HeloDonut**에서 14개월간 1인 프론트엔드 전체 책임
 - 🏗️ **대구트립·고고양양**에서 선임 개발자로 초기 구조 주도
 - 🌏 공공 관광 앱부터 소셜 커머스까지 다양한 도메인 경험
-- 📝 새로운 기술과 실무 경험을 [블로그](https://twinspika.tistory.com/)에 꾸준히 정리
 
 ---
 
@@ -29,24 +28,38 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 ### Web (Sub)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### State & Data
+### State Management
 ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logoColor=white)
 ![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+### Data & Storage
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 ![MMKV](https://img.shields.io/badge/MMKV-4A90E2?style=flat-square&logoColor=white)
+![AsyncStorage](https://img.shields.io/badge/AsyncStorage-3578E5?style=flat-square&logoColor=white)
+![Keychain](https://img.shields.io/badge/Keychain-A2A2A2?style=flat-square&logoColor=white)
+
+### UI & Animation
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![Reanimated](https://img.shields.io/badge/Reanimated-007ACC?style=flat-square&logoColor=white)
+![FlashList](https://img.shields.io/badge/FlashList-7950F2?style=flat-square&logoColor=white)
 
 ### Real-time & Backend Integration
 ![STOMP](https://img.shields.io/badge/STOMP%2FWebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+
+### Internationalization & Maps
+![i18next](https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![TMAP](https://img.shields.io/badge/TMAP_API-EE2C2C?style=flat-square&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -106,13 +119,6 @@
 | **다국어 지원** | i18next 기반 동적 언어 전환 · 6개 언어 (HeloDonut) · 4개 언어 (대구트립) |
 | **Native 모듈** | iOS/Android 브릿지 · patch-package로 외부 라이브러리 이슈 해결 |
 | **앱 출시** | Google Play · App Store 심사 대응 · 출시 이력 5건 |
-
----
-
-## 📂 공개 저장소
-
-> 실무 프로젝트(HeloDonut, 고고양양, 대구트립 등)는 회사 자산이라 비공개입니다.
-> 개인 공개 프로젝트는 추후 추가 예정입니다.
 
 ---
 
