@@ -4,7 +4,6 @@
 
 **4년차 React Native 개발자** · 공공 앱부터 소셜 커머스까지 다수 출시
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gusals3078@gmail.com)
 [![Notion](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Mobile-App-Developer-12899fee16fe8044b818c0c842f910aa)
 
 </div>
