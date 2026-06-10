@@ -6,7 +6,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gusals3078@gmail.com)
 [![Notion](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Mobile-App-Developer-12899fee16fe8044b818c0c842f910aa)
-[![Tistory](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://twinspika.tistory.com/)
 
 </div>
 
