@@ -128,6 +128,6 @@
 
 [![Gmail](https://img.shields.io/badge/이메일로_연락하기-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gusals3078@gmail.com)
 
-[**상세 포트폴리오 →**](https://www.notion.so/Mobile-App-Developer-12899fee16fe8044b818c0c842f910aa) | [**기술 블로그 →**](https://twinspika.tistory.com/)
+[**포트폴리오 →**](https://www.notion.so/Mobile-App-Developer-12899fee16fe8044b818c0c842f910aa) | [**개인 블로그 →**](https://twinspika.tistory.com/)
 
 </div>
