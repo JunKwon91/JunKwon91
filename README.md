@@ -97,7 +97,7 @@
 
 > 대구 수성구 통합 관광 체험 플랫폼 · **4개 국어 (한·영·중·일)**
 
-- 팀의 **첫 React Native 프로젝트** · 선임으로 초기 구조 주도
+- 팀의 **첫 React Native 프로젝트** · 프론트엔드 4명 팀의 선임으로 초기 구조 주도
 - Recoil 도입 · 공통 컴포넌트 라이브러리 · 폴더 구조 설계
 - 소셜 로그인 4종 (Kakao/Naver/Google/Apple) WebView 통합
 - **Firebase Dynamic Link** 기반 Web→앱 음성 가이드 자동 재생
