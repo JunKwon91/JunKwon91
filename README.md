@@ -13,9 +13,10 @@
 ## 👨‍💻 About Me
 
 - 🎯 실제 서비스 앱을 직접 설계·개발·출시한 **4년차 React Native 개발자**
-- 📱 **HeloDonut**에서 14개월간 1인 프론트엔드 전체 책임
+- 📱 **HeloDonut**에서 14개월간 프론트엔드 단독 담당
 - 🏗️ **대구트립·고고양양**에서 선임 개발자로 초기 구조 주도
 - 🌏 공공 관광 앱부터 소셜 커머스까지 다양한 도메인 경험
+- 💡 안정적인 모바일 서비스와 좋은 사용자 경험을 만드는 것을 중요하게 생각합니다
 
 ---
 
@@ -69,16 +70,18 @@
 
 ## 📱 주요 프로젝트
 
-### 🍩 [HeloDonut](https://meadow-creek-74f.notion.site/HeloDonut-34599fee16fe814f975ecddb9039b9ff) — 소셜 커머스 앱 (1인 프론트엔드)
+### 🍩 [HeloDonut](https://meadow-creek-74f.notion.site/HeloDonut-34599fee16fe814f975ecddb9039b9ff) — 소셜 커머스 앱
 
-> 전화번호 기반 지인 연결 위에서 실시간 채팅·동영상 스트리밍·PG 결제를 통합한 소셜 커머스 앱
+> 전화번호 기반 지인 연결 위에서 실시간 채팅·동영상 피드(VOD)·PG 결제를 통합한 소셜 커머스 앱
 
-- 14개월간 **프론트엔드 전체 1인 설계·개발·출시**
-- **STOMP/WebSocket** 기반 오프라인 우선 채팅 시스템 설계
+- 14개월간 **프론트엔드 단독 담당**으로 **STOMP/WebSocket** 기반 오프라인 우선 채팅 설계
+- **MMKV** 기반 오프라인 메시지 보관 구조 설계
+- 주문 상태 43종 및 앱 스킴 35종 관리 구조 설계
 - **NICE Pay PG** 결제 + 외부 앱 딥링크 처리
 - **i18next 4개 언어** 국제화 (한·영·일·이탈리아어)
-- **React Native New Architecture** (Fabric, TurboModules) 도입
-- 후반부에 **Thirteen CMS** (React 19 + Vite + shadcn/ui) 병행 개발
+- **React Native New Architecture** (Fabric, TurboModules) 마이그레이션 및 적용
+- **LegendList** 기반 세로 스와이프 동영상 피드 구현
+- **React 19 + Vite + shadcn/ui** 기반 Thirteen CMS 개발 병행
 
 `React Native` `TypeScript` `Zustand` `TanStack Query` `STOMP` `MMKV` `Firebase`
 
@@ -95,7 +98,7 @@
 
 ### 🏯 [대구트립](https://meadow-creek-74f.notion.site/DaeguTrip-2d899fee16fe800d9916d051b450d6cd) — 대구 관광 플랫폼
 
-> 대구 수성구 통합 관광 체험 플랫폼 · **4개 국어 (한·영·중·일)**
+> 대구 수성구 통합 관광 체험 플랫폼 · **5개 언어 지원 (한·영·중국어 간체·중국어 번체·일본어)**
 
 - 팀의 **첫 React Native 프로젝트** · 프론트엔드 4명 팀의 선임으로 초기 구조 주도
 - Recoil 도입 · 공통 컴포넌트 라이브러리 · 폴더 구조 설계
@@ -114,7 +117,7 @@
 | **결제 시스템** | NICE Pay PG · 카드/간편결제 · 외부 앱 딥링크 (iOS/Android) |
 | **미디어 처리** | 동영상 업로드·압축·재생·썸네일 · LegendList 기반 세로 스와이프 피드 |
 | **지도 서비스** | Google Maps · TMAP · Naver/Kakao Maps · 광역 POI 리스트 최적화 |
-| **다국어 지원** | i18next 기반 동적 언어 전환 · 4개 언어 (HeloDonut) · 4개 언어 (대구트립) |
+| **다국어 지원** | i18next 기반 동적 언어 전환 · 4개 언어 (HeloDonut) · 5개 언어 (대구트립) |
 | **Native 모듈** | iOS/Android 브릿지 · patch-package로 외부 라이브러리 이슈 해결 |
 | **앱 출시** | Google Play · App Store 심사 대응 · 출시 이력 5건 |
 
@@ -122,9 +125,9 @@
 
 <div align="center">
 
-### 📫 함께 일할 기회를 찾고 있습니다
+### 📫 Contact
 
-새로운 도전과 성장할 수 있는 팀을 찾고 있습니다.
+실시간 통신·미디어·커머스 서비스를 개발하며 사용자 경험을 개선하는 데 관심이 있습니다.
 
 [![Email](https://img.shields.io/badge/이메일로_연락하기-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gusals3078@gmail.com)
 
