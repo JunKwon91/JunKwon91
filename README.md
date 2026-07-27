@@ -109,7 +109,7 @@
 
 ---
 
-## 🧪 개인 프로젝트 (퇴사 후 · 진행 중)
+## 🧪 개인 프로젝트
 
 ### 🎨 [rn-design-system](https://github.com/JunKwon91/rn-design-system) — React Native 디자인 시스템 라이브러리
 
