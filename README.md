@@ -109,6 +109,34 @@
 
 ---
 
+## 🧪 개인 프로젝트 (퇴사 후 · 진행 중)
+
+### 🎨 [rn-design-system](https://github.com/JunKwon91/rn-design-system) — React Native 디자인 시스템 라이브러리
+
+> 재사용 UI 컴포넌트를 builder-bob로 패키징하고, 설계 결정을 ADR로 기록
+
+- 8카테고리 **36개 컴포넌트** · 접근성 대응 · BottomSheet 3단계 자체 구현
+- **테스트 61케이스** · **ADR 45개** · CI (lint · typecheck · build)
+
+`TypeScript` `React Native` `styled-components` `builder-bob`
+
+### 🎲 [lotto-stats](https://github.com/JunKwon91/lotto-stats) — 로또 6/45 통계·추천 앱
+
+> "예측"이 아닌 **통계 분석 도구** · React Native 0.81 · New Architecture (Fabric)
+
+- 화면 11 · **통계 8지표** · **추천 5알고리즘** · 즐겨찾기 결과 자동 비교
+- **테스트 80케이스** · CI (lint · typecheck · test)
+
+`React Native 0.81` `TypeScript` `Zustand` `TanStack Query` `MMKV` `FlashList`
+
+### ⚙️ [lotto-data](https://github.com/JunKwon91/lotto-data) — 데이터셋 + GitHub Actions 자동 갱신
+
+> 주간 cron으로 크롤링 → 커밋 자동화
+
+`JavaScript` `GitHub Actions` `Playwright`
+
+---
+
 ## 💡 핵심 경험
 
 | 영역 | 경험 |
@@ -116,9 +144,9 @@
 | **실시간 통신** | STOMP/WebSocket · SockJS 폴백 · 오프라인 우선 동기화 · 재연결 전략 |
 | **결제 시스템** | NICE Pay PG · 카드/간편결제 · 외부 앱 딥링크 (iOS/Android) |
 | **미디어 처리** | 동영상 업로드·압축·재생·썸네일 · LegendList 기반 세로 스와이프 피드 |
-| **지도 서비스** | Google Maps · TMAP · Naver/Kakao Maps · 광역 POI 리스트 최적화 |
+| **지도 서비스** | Google·Naver 이중 지도 (HeloDonut) · TMAP (관광앱) · Kakao 검색 API · POI 리스트 최적화 |
 | **다국어 지원** | i18next 기반 동적 언어 전환 · 4개 언어 (HeloDonut) · 5개 언어 (대구트립) |
-| **Native 모듈** | iOS/Android 브릿지 · patch-package로 외부 라이브러리 이슈 해결 |
+| **네이티브 연동** | patch-package로 라이브러리 네이티브 레이어 이슈 해결 · Unity Native Plugin (Java/Objective-C, 소셜 로그인) 제작 |
 | **앱 출시** | Google Play · App Store 심사 대응 · 출시 이력 5건 |
 
 ---
